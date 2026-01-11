@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hello 👋
-- Site: [Science4ai](https://science4ai.com/)
+- Site: [Isom](https://isom.top/)
 
 ## Focus Areas
 - Large Language Models (LLMs) research and applications
@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 - Python
 - C/C++, Rust
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sci4ai&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sci4ai&layout=compact&theme=buefy&hide_border=true" /></a> |
+| [<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=isomtop&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />](https://github-readme-stats-azure-chi-92.vercel.app/api?username=shaijing&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" alt="Anurag's github stats" />)</a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sci4ai&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
